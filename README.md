@@ -1,2 +1,2 @@
-# Three_Tier_Architecture
+# Three-Tier-Architecture
 Three Tier Application deployment on Kubernetes
